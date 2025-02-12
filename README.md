@@ -24,8 +24,8 @@ To run this project, you'll need to have the following installed on your local m
 If you haven't cloned the repository yet, do so by running:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Cremdemout1/improved_perceptron.git
+cd improved_perceptron
 ```
 
 ### 2. Create a Virtual Environment (Optional, but Recommended)
