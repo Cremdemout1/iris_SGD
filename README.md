@@ -51,7 +51,7 @@ Activate the virtual environment:
 Once your environment is set up, you can run the script:
 
 ```bash
-python ml.py
+python3 ml.py
 ```
 
 This will load the Iris dataset, train the Perceptron model, and display decision boundary visualizations.
