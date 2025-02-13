@@ -32,7 +32,7 @@ cd improved_perceptron
 Creating a virtual environment ensures you don't interfere with your global Python environment. To create one, run:
 
 ```bash
-./make_env.sh
+../make_env.sh
 ```
 
 Activate the virtual environment:
